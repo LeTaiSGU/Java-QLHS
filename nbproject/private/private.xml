@@ -3,10 +3,10 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/D:/JAVA/Java_Workspace/SwingProjectEx/src/GUI/Splash.java</file>
-            <file>file:/D:/JAVA/Java_Workspace/SwingProjectEx/src/GUI/LoginGUI.java</file>
-            <file>file:/D:/JAVA/Java_Workspace/SwingProjectEx/src/GUI/SubjectPanel.java</file>
-            <file>file:/D:/JAVA/Java_Workspace/SwingProjectEx/src/GUI/AdminGUI.java</file>
+            <file>file:/D:/JAVA/Java_Workspace/java_QLHS2/Java-QLHS/src/GUI/SubjectPanel.java</file>
+            <file>file:/D:/JAVA/Java_Workspace/java_QLHS2/Java-QLHS/src/GUI/Splash.java</file>
+            <file>file:/D:/JAVA/Java_Workspace/java_QLHS2/Java-QLHS/src/GUI/StudentPanel.java</file>
+            <file>file:/D:/JAVA/Java_Workspace/java_QLHS2/Java-QLHS/src/GUI/ClassGradePanel.java</file>
         </group>
     </open-files>
 </project-private>
